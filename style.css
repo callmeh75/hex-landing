@@ -11,11 +11,6 @@ h1, h2, h3 {
     border-width: 2px;
 }
 
-a .fa:focus,
-a .fa:hover {
-    color: #ffc107;
-}
-
 .hdr-carousel-item {
     height: 460px;
 }
